@@ -1,4 +1,4 @@
-# Proyecto 06 — Manejo de errores sin excepciones
+# Proyecto 06:  Manejo de errores sin excepciones
 
 ## Objetivo
 Controlar **errores previsibles** con validaciones, códigos de retorno, `Optional` y un objeto `Resultado<T>`, sin emplear `try/catch` para controlar el flujo normal del negocio.
